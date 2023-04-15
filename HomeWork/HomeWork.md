@@ -52,4 +52,8 @@ git branch - показывает все ветки
 
 git branch name - переходит на name ветку
 
+* ## Костя попытался добавить картинки чтобы потом слить их в master
 
+<image src="images/Front.jpg" alt="Привет мир">
+
+<image src="images/KotKod.jpg" alt="Привет мир">
