@@ -52,4 +52,4 @@ git branch - показывает все ветки
 
 git branch name - переходит на name ветку
 
-<image src="images/KotKod.jpg" alt="Все любят котиков">
+
