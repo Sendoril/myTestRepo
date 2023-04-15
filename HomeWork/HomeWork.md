@@ -58,3 +58,8 @@ git branch name - переходит на name ветку
 <image src="images/Front.jpg" alt="Привет мир">
 
 <image src="images/KotKod.jpg" alt="Привет мир">
+* Васе предложили написать описание и вот что он сделал:
+
+*Данный файл описывает возможности MarkDawn*
+
+**Вася**
